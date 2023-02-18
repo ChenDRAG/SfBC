@@ -2,7 +2,7 @@
 
 This is a pytorch implementation of SfBC: [Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling](https://arxiv.org/abs/2209.14548).
 
-![Algorithm Overview](https://github.com/ChenDRAG/SfBC/blob/main/overview.PNG)
+![Algorithm Overview](https://github.com/ChenDRAG/SfBC/blob/master/overview.PNG)
 
 ## Requirements
 
