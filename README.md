@@ -1,4 +1,4 @@
-# Value-Based Episodic Memory Control
+# Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling
 
 This is a pytorch implementation of SfBC: [Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling](https://arxiv.org/abs/2209.14548).
 
