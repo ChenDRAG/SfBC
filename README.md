@@ -15,7 +15,7 @@ Train the behavior model:
 $ python3 train_behavior.py
 ```
 
-Train the critic model plot evaluation scores with tensorboard:
+Train the critic model and plot evaluation scores with tensorboard:
 
 ```shell
 $ python3 train_critic.py
