@@ -4,6 +4,8 @@ This is a pytorch implementation of SfBC: [Offline Reinforcement Learning via Hi
 
 ![Algorithm Overview](https://github.com/ChenDRAG/SfBC/blob/master/overview.PNG)
 
+\* **For diffusion-based offline RL, we recommend trying our subsequent work, QGPO([paper](https://arxiv.org/abs/2304.12824); [Github](https://github.com/ChenDRAG/CEP-energy-guided-diffusion)). Compared with SfBC, QGPO has improved computational efficiency and noticeably better performance.**
+
 ## Requirements
 
 - See conda requirements in `requirements.yml`
@@ -30,11 +32,12 @@ $ python3 evaluation.py
 ## Citing
 If you find this code release useful, please reference in your paper:
 ```
-@article{chen2022offline,
-  title={Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling},
-  author={Chen, Huayu and Lu, Cheng and Ying, Chengyang and Su, Hang and Zhu, Jun},
-  journal={arXiv preprint arXiv:2209.14548},
-  year={2022}
+@inproceedings{
+chen2023offline,
+title={Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling},
+author={Huayu Chen and Cheng Lu and Chengyang Ying and Hang Su and Jun Zhu},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
 }
 ```
 
